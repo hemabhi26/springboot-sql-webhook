@@ -33,7 +33,7 @@ java -jar release/app.jar
 ## GitHub & JAR Download
 
 - [GitHub Repository](https://github.com/hemabhi26/springboot-sql-webhook) <!-- Replace with your actual repo URL -->
-- [Download Raw JAR](https://github.com/hemabhi26/springboot-sql-webhook/releases/app.jar) <!-- Replace with actual JAR link -->
+- [Download Raw JAR](https://github.com/hemabhi26/springboot-sql-webhook/release/app.jar) <!-- Replace with actual JAR link -->
 
 ## Git Commands
 
