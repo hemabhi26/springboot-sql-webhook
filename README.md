@@ -32,8 +32,8 @@ java -jar release/app.jar
 
 ## GitHub & JAR Download
 
-- [GitHub Repository](https://github.com/your-username/your-repo) <!-- Replace with your actual repo URL -->
-- [Download Raw JAR](https://github.com/your-username/your-repo/releases/latest/download/app.jar) <!-- Replace with actual JAR link -->
+- [GitHub Repository](https://github.com/hemabhi26/springboot-sql-webhook) <!-- Replace with your actual repo URL -->
+- [Download Raw JAR](https://github.com/hemabhi26/springboot-sql-webhook/releases/app.jar) <!-- Replace with actual JAR link -->
 
 ## Git Commands
 
